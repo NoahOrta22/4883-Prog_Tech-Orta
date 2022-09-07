@@ -1,8 +1,8 @@
-## A06 - Rails UVA 514
+## A06 - Hardwood Species UVA 10226
 ### Noah Orta
 ### Description:
 
-See if we can push and pop items off a stack so that we order them sequentially.
+Counts the different hardwood species then prints them out in alphabetical order
 
 ### Files
 
@@ -13,5 +13,7 @@ See if we can push and pop items off a stack so that we order them sequentially.
 
 ### Instructions
 
-Run the program and it will print out if the number can be pushed and popped off a stack
-and end up in sequential order.
+To run in the shell do the following commands:
+
+g++ main.cpp -o main
+./main < input.txt > output.txt
