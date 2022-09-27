@@ -1,4 +1,4 @@
-##Bipartite Assignments
+## Bipartite Assignments
 
 | Number | Folder | Assignment |
 | :---: | ----------- | ---------------------- |
