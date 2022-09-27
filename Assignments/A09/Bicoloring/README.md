@@ -9,7 +9,7 @@ Giving a map, output if it is bicolorable or not.
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
 |   1   | [main.cpp]      | Main driver of my project the program.      |
-
+|   2   | [input.txt]     | Sample input file                              |
 
 ### Instructions
 
