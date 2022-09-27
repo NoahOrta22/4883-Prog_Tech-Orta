@@ -16,4 +16,5 @@ Giving a map, output if it is bicolorable or not.
 Shell Commands:
 
 $ g++ main.cpp -o main
+
 $ ./main < input.txt > output.txt
