@@ -2,14 +2,15 @@
 ### Noah Orta
 ### Description:
 
-Rock
+Rock, paper, scissorcs tournament where people battle their neighbors (cardinal directions)
+The winner stays and takes over the loser's spot at the end of the day.
 
 ### Files
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | [main.cpp]      | Main driver of my project the program.      |
-|   2   | [input.txt]     | Sample input file                              |
+|   1   | [main.cpp]      | Main driver of my project the program.              |
+|   2   | [input.txt]     | Sample input file                                   |
 
 ### Instructions
 
