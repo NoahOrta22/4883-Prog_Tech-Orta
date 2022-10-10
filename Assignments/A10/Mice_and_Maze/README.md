@@ -2,7 +2,7 @@
 ### Noah Orta
 ### Description:
 
-Given a map, each node (mouse) is a certain distance (weighted edges) away from the exit. '\n'
+Given a map, each node (mouse) is a certain distance (weighted edges) away from the exit.
 Determine how many mice can make it to the exit within the given time.
 
 ### Files
