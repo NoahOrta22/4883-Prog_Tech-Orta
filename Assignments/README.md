@@ -8,4 +8,5 @@
 | 4 | [A06](A06)  | Hardwood Species 10226 |
 | 5 | [A07](A07)         | Rails UVA 514         |
 | 6 | [A08](A08)  | Rock Paper Scissors UVA 10443 |
-| 7 | [A09](A09) | Bicoloring UVA 10004 |
+| 7 | [A09](A09) | Everything's Bipartite |
+| 8 | [A10](A10) | Everything's Dijkstra |
