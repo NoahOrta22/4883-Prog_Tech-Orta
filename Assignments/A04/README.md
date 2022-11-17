@@ -1,4 +1,4 @@
-## Dijktra Assignments
+## Eazy Breezy Problems
 
 | # | Folder | Assignment |
 | :---: | ----------- | ---------------------- |
