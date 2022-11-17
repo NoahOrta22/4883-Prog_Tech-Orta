@@ -3,3 +3,4 @@
 | # | Folder | Assignment |
 | :---: | ----------- | ---------------------- |
 | 1 | [3n+1_Problem](3n+1_Problem) | 3n+1_Problem UVA 100 |
+| 2 | [Hashmat](Hashmat) | Hashmat The Brave Warrior UVA 10055 | 
