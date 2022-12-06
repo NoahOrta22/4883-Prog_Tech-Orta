@@ -1,4 +1,4 @@
-## hajj-e-Akbar UVA 12577
+## Hajj-e-Akbar UVA 12577
 ### Noah Orta
 https://cs.msutexas.edu/uva/api/pdfs/125/12577.pdf
  
