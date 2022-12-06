@@ -8,7 +8,7 @@ This program returns the sum of odd numbers between two integers
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | [main.cpp]      | Main driver of my project the program.      |
+|   1   | [main.cpp]      | Main driver of the program.      |
 
 
 ### Instructions
