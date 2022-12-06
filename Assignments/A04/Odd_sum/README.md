@@ -14,5 +14,7 @@ This program returns the sum of odd numbers between two integers
 ### Instructions
 
 bash commands
+
 $ g++ main.cpp -o main
+
 $ ./main < input.txt > output.txt
